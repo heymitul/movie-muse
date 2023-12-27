@@ -1,1 +1,2 @@
-# movie-muse
+- I tried to create as much as component baed structure.
+- 
