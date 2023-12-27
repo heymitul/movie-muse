@@ -19,10 +19,10 @@ export default function Layout() {
   return (
       <>
         <div className='min-h-full'>
-          <Disclosure as='nav' className='bg-gray-800'>
+          <Disclosure as='nav' className='bg-primary mx-auto px-4 sm:px-6 lg:px-8'>
             {({ open }) => (
                 <>
-                  <div className='bg-primary/50 mx-auto px-4 sm:px-6 lg:px-8 container'>
+                  <div className='bg-primary mx-auto px-4 sm:px-6 lg:px-8 container'>
                     <div className='flex h-16 items-center justify-between'>
                       <div className='flex items-center'>
                         <div className='flex-shrink-0'>
